@@ -1,4 +1,4 @@
-# RansaT.I.## Olá eu sou Matheus Ransati Pereira, estudante de Engenharia de Software na UNICESUMAR!
+Olá eu sou Matheus Ransati Pereira, estudante de Engenharia de Software na UNICESUMAR! Estudando linguagens de programação e futuro DEV
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ransa-ti&show_icons=true&theme=dracula)
 ##
